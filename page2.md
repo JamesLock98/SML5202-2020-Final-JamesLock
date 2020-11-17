@@ -1,2 +1,2 @@
-<h1>Page 2</h1>
-<p>Some content</p>
+<h1>Alphabet & Letters</h1>
+<p>Here are some useful tools and lessons to help you master the art of the Russian alphabet and the names of the letters.</p>
