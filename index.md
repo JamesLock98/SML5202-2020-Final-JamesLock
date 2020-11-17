@@ -15,9 +15,7 @@
 <p> Here is a great video to understand the sound of a native Russian speaker:</p>
 	
  <div class="container">
- 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/F_2hBzOneBk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/F_2hBzOneBk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 	
 <div class="container">
@@ -64,5 +62,3 @@ Intermediate
  <hr>  
   <p> Last updated: 25<sup>th</sup> October 2020
 	</body>
-
-</html/
