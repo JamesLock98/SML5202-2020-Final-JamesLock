@@ -18,13 +18,15 @@
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/F_2hBzOneBk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 <div class="container">
-<h1>Multiple Code Lines</h1>
-<p>For multiple lines of code, use the pre element:</p>
+<h1>Language Learning </h1>
+<p>Styles:</p>
 <pre>
-I don't understand what pre does.
+Native
+Fluent
+Intermediate
 </pre>
 </div>
-	<hr>
+	
 <div class="container">
   <h2>Russian Verbs</h2>
   <p>Verb Aspect Examples:</p>            
