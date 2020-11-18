@@ -65,4 +65,4 @@ Intermediate
 </div>
 	
  <hr>  
-  <p> Last updated: 25<sup>th</sup> October 2020
+  <p> Last updated: 18<sup>th</sup> November 2020
