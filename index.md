@@ -1,5 +1,5 @@
 <div class="container">       
-  <img src="RUSFLAG.jpg" class="img-rounded" alt="Russian Flag" width="304" height="236"> 
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" class="img-rounded" alt="Russian Flag" width="304" height="236"> 
 </div>
 <div class="container">
 	
