@@ -7,7 +7,6 @@
         <div class="caption">
           <p>The National Flag of Russia</p>
         </div>
-      </a>
     </div>
   </div>
   <div class="col-md-4">
