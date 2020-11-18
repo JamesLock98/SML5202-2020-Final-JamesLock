@@ -51,12 +51,14 @@
 </div>
 	
 <div class="container">
-<h1>Language Learning </h1>
-<p>Styles:</p>
+<h1>Language Proficiency </h1>
+<p>Levels:</p>
 <pre>
 Native
 Fluent
 Intermediate
+Beginner
+Elementary
 </pre>
 </div>
 	
