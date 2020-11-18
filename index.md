@@ -1,9 +1,8 @@
-<div class="container">
-  <h2>Rounded Corners</h2>
-  <p>The .img-rounded class adds rounded corners to an image (not available in IE8):</p>            
+<div class="container">       
   <img src="RUSFLAG.jpeg" class="img-rounded" alt="Russian Flag" width="304" height="236"> 
 </div>
 <div class="container">
+	
 <h1> Welcome </h1>
 
 <h2> Introduction </h2>
