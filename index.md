@@ -16,7 +16,6 @@
         <div class="caption">
           <p>Moscow Centre</p>
         </div>
-      </a>
     </div>
   </div>
   <div class="col-md-4">
@@ -25,7 +24,6 @@
         <div class="caption">
           <p>President Vladimir Vladimirovich Putin</p>
         </div>
-      </a>
     </div>
   </div>
 </div>
