@@ -1,5 +1,6 @@
 <h1>Verbs & Vocabulary</h1>
-<p>Verbs and vocabulary</p>
+<p>Verbs are a part of speech used to describe motion or convey a subject in action. Verbs are of great importance in language learning - without verbs, sentences cannot exist. </p>
+<p> Vocabulary is a collection of words and/or phrases known to a person in a language. The more advanced the vocabulary, the more able a person is to communicate through writing, speech, reading and listening. </p>
 <div class="container">
   <h2>Russian Verbs</h2>
   <p>Verb Aspect Examples:</p>            
