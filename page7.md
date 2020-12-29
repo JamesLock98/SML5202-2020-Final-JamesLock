@@ -1,1 +1,1 @@
-<h1> Page 7 </h1>
+<h1> Extra Information & Resources</h1>
