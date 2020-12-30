@@ -41,13 +41,13 @@
   <p>Word Examples:</p>            
   <table class="table table-striped">
     <thead>
+	  </thead>
+	   <tbody>
       <tr>
         <th>Привет/Privyet = Hi</th>
         <th>кошка/koshka = Cat</th>
         <th>собака/sobaka = Dog</th>
       </tr>
-    </thead>
-    <tbody>
       <tr>
         <td>Да/Da = Yes</td>
         <td> и/ee = And</td>
