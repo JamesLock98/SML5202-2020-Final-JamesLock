@@ -1,4 +1,10 @@
-<h1> Animals & Vocabulary </h1>
-<p> Here is an interactive exercise </p>
+<h1> Extra Information & Resources</h1>
 
-<iframe src="https://h5p.org/h5p/embed/1061858" width="1090" height="270" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<p>We have here some external resources and links that we believe are vital to learning the fundamentals of Russian. These are some of the best sites widely used other language learners such as yourselves.</p>
+
+<p> http://masterrussian.com/ </p>
+<p> http://www.russianlessons.net/ </p>
+<p> http://www.russianforeveryone.com/ </p>
+<p> https://www.loecsen.com/en/learn-russian </p>
+
+
