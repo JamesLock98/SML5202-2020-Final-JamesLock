@@ -15,17 +15,13 @@
   
   <p> Learning a foreign language can seem a daunting task. When we learn a language, in order to truly immerse ourselves, we must also learn about the culture, history and traditions of the country. </p>
 
-<p> Language learning is intimidating and in many ways, we can never truly master a language, as we never stop learning. Whilst this is a beginner site, it is quite important that we understand what a native Russian speaker sounds like in their own environemnt. So here we have a great video that gives some insight the phonetic sounds of Russian:</p>
+<p> It is  important that we understand what a native Russian speaker sounds like in their own environment. So here we have a great video for you to listen to that gives some insight the phonetic sounds of Russian with some English subtitles so no-one gets lost!</p>
 </div>
 
  <div class="container">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/F_2hBzOneBk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-
-
-<p> This site is primarily aimed at people with no pre-existing knowledge of Russia or Russian language, but as we hope to inspire you to continue with your learning of this popular and widely used language, we thought we would share the levels at which one's language skills are usually classified. </p>
-
+<tr>
 
 <div class="container">
 <h1>Language Proficiency </h1>
@@ -39,6 +35,8 @@ Beginner
 Elementary
 </pre>
 </div>
+
+<p> So when you're ready, lets begin! </p>
 	
  <hr>  
   <p> Last updated: 10<sup>th</sup> January 2021
