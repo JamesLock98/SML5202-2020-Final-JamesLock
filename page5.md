@@ -30,6 +30,7 @@
     </div>
   </div>
 
+<tr>
 
   <p> Learning a foreign language can seem a daunting task. When we learn a language, in order to truly immerse ourselves, we must also learn about the culture, history and traditions of the country. </p>
 
