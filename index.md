@@ -2,7 +2,9 @@
 <h1> <b> Welcome to LearnRussian! </b> </h1>
 
 
-<h2> Here you can take your first steps to gaining understanding of a language that is used far and wide throughout the world. The aim of this site is to take your knowledge of Russian to an elementary/beginner level through a variety of essential topics, accompanied by small tests as you progress through the site. </h2>
+<h2> Here you can take your first steps to gaining understanding of a language that is used far and wide throughout the world. </h2>
+	
+<h3> The aim of this site is to take your knowledge of Russian to an elementary/beginner level through a variety of essential topics, accompanied by small tests as you progress through the site. </h3>
   
   <p> Here are 5 key facts about The Russian Federation: </p>
   <ol> 
