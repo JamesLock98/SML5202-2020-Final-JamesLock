@@ -17,17 +17,17 @@
 <body>
 
 <div class="sites">
-<h2><a href="http://masterrussian.com//" target="_blank">Masterrussian</a> </h2>
+<h2><a href="http://masterrussian.com//" target="_blank">Master Russian</a> </h2>
 <p>A great site all-round for all levels with vast resources and tests. </p>
 </div> 
 
 <div class="sites">
-<h2><a href="http://www.russianlessons.net/" target="_blank">Russianlessons</a></h2>
+<h2><a href="http://www.russianlessons.net/" target="_blank">Russian Language Lessons</a></h2>
 <p>Similar to masterrussian, simple and effective. </p>
 </div>
 
 <div class="sites">
-<h2><a href="http://www.russianforeveryone.com/" target="_blank">Russianforeveryone</a></h2>
+<h2><a href="http://www.russianforeveryone.com/" target="_blank">Russian For Everyone</a></h2>
 <p>A site designed for all levels.</p>
 </div>
 
