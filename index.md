@@ -29,12 +29,14 @@
 <h1>Language Proficiency </h1>
 <p>Levels:</p>
 <pre>
-Native
-Fluent
-Advanced
-Intermediate
-Beginner
-Elementary
+<ul>
+  <li>Native</li>
+  <li>Fluent</li>
+  <li>Advanced</li>
+  <li>Intermediate</li>
+  <li>Beginner</li>
+  <li>Elementary</li>
+</ul>  
 </pre>
 </div>
 
