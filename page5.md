@@ -1,6 +1,8 @@
 <h1>Culture</h1>
 <body>
-<h2> Welcome to our image gallery. Here you can see the National Flag, Moscow Centre and the President!
+<h4> Welcome to our image gallery. Here you can see the National Flag, Moscow Centre and the President! </h4>
+  
+  <tr>
   
   <div class="row">
   <div class="col-md-4">
@@ -27,7 +29,7 @@
         </div>
     </div>
   </div>
-</div>
+
 
   <p> Learning a foreign language can seem a daunting task. When we learn a language, in order to truly immerse ourselves, we must also learn about the culture, history and traditions of the country. </p>
 
@@ -38,5 +40,5 @@
  <iframe width="560" height="315" src="https://www.youtube.com/embed/F_2hBzOneBk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <tr>
-</body>
+
 
