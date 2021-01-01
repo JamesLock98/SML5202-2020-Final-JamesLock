@@ -54,26 +54,26 @@
 		</tr>
 		<tr>
         <td>Лошадь/Loshad' = Horse</td>
-        <td>Собака/Sobaka = Dog</td>
-	<td>Медведь/Medvyed' = Bear</td>
-	<td>Слон/Slon = Elephant</td>
+	<td>Нет/Nyet = No</td>
+	<td> Плохо/Ploho = Bad</td>
+	<td>Кто/kto = Who</td>
       		</tr>
       		<tr>
-	<td>Нет/Nyet = No</td>
+	<td>Собака/Sobaka = Dog</td>
 	<td>Да/Da = Yes</td>
-	<td>Спасибо/Spasiba = Thanks</td>
-	<td>Пожалуйста/Poshalooista = Please/Welcome</td>
-      </tr>
-      <tr>
-	      <td> Плохо/Ploho = Bad</td>
 	<td>Хорошо/Horosho = Good</td>
+	<td>Когда/kogda = When</td>
+     		</tr>
+      		<tr>
+     	<td>Медведь/Medvyed' = Bear</td>
+     	<td>Спасибо/Spasiba = Thanks</td>
       	<td>Как дела?/Kak Dyela? = How are you</td>
-        <td>До свидания/Do Svidaniya = Goodbye</td>
-      </tr>
-      <tr>
 	<td>Что/chto = What/that</td>
-        <td>Когда/kogda = When</td>
-        <td>Кто/kto = Who</td>
+      		</tr>
+      		<tr>
+      	<td>Слон/Slon = Elephant</td>
+	<td>Пожалуйста/Poshalooista = Please/Welcome</td>
+	<td>До свидания/Do Svidaniya = Goodbye</td>
 	<td>Где/gde = Where</td>  
       </tr>
     </tbody>
