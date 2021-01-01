@@ -92,7 +92,7 @@ footer {
   <article>
     <h1></h1>
     <p>Now that you have checked out all the topics on the left, here on LearnRussian! We hope you have enjoyed our site and content.</p>
-    <p>Please do enjoy our other recommended sites and plan your next holiday to Russia! We are certain it will be an experience you will never forget!</p>
+    <p>Please do enjoy our other recommended sites and plan your next holiday to Russia. We are certain it will be an experience you will never forget.</p>
   </article>
 </section>
 
