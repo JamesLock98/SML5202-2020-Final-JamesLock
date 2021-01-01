@@ -49,7 +49,8 @@
       <tr>
         <th>Animals</th>
 	<th>Key Words</th>
-	<th>Phrases</th>
+	<th>Key Words (2)</th>
+	<th>Interrogatives</th>
 		</tr>
 		<tr>
         <td>Лошадь/Loshad' = Horse</td>
@@ -58,22 +59,22 @@
 	<td>Слон/Slon = Elephant</td>
       		</tr>
       		<tr>
-	<td>Лошадь/Loshad' = Horse</td>
+	<td>Нет/Nyet = No</td>
 	<td>Да/Da = Yes</td>
-        <td> и/ee = And</td>
-        <td>что/chto = What/that</td>
+	<td>Спасибо/Spasiba = Thanks</td>
+	<td>Пожалуйста/Poshalooista = Please/Welcome</td>
       </tr>
       <tr>
-      	<td>Собака/Sobaka = Dog</td>
-        <td>Спасибо/Spasiba = Thanks</td>
-        <td>когда/kogda = When</td>
-        <td>кто/kto = Who</td>
-      </tr>
-      <tr>
-      	<td>Медведь/Medvyed' = Bear</td>
+	      <td> Плохо/Ploho = Bad</td>
+	<td>Хорошо/Horosho = Good</td>
+      	<td>Как дела?/Kak Dyela? = How are you</td>
         <td>До свидания/Do Svidaniya = Goodbye</td>
-        <td>где/gde = Where</td>
-        <td>дом/dom = House</td>
+      </tr>
+      <tr>
+	<td>Что/chto = What/that</td>
+        <td>Когда/kogda = When</td>
+        <td>Кто/kto = Who</td>
+	<td>Где/gde = Where</td>  
       </tr>
     </tbody>
   </table>
