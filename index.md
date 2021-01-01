@@ -1,6 +1,5 @@
  <div class="container">
-	
-<h1 style="text-align:center;">Home</h1>
+
 <h1 style="color:red;">Home</h1>
 <h3> <b> Welcome to LearnRussian! </b> </h3>
 
