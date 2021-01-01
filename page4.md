@@ -47,21 +47,30 @@
   <table class="table table-striped">
 	   <tbody>
       <tr>
-        <th>Привет/Privyet = Hi</th>
-        <th>кошка/koshka = Cat</th>
-        <th>собака/sobaka = Dog</th>
-      </tr>
-      <tr>
-        <td>Да/Da = Yes</td>
+        <th>Animals</th>
+	<th>Key Words</th>
+	<th>Phrases</th>
+		</tr>
+		<tr>
+        <th>Лошадь/Loshad' = Horse</th>
+        <th>Собака/Sobaka = Dog</th>
+	<th>Медведь/Medvyed' = Bear</th>
+	<th>Слон/Slon = Elephant</th>
+      		</tr>
+      		<tr>
+	<td>Лошадь/Loshad' = Horse</td>
+	<td>Да/Da = Yes</td>
         <td> и/ee = And</td>
         <td>что/chto = What/that</td>
       </tr>
       <tr>
+      	<td>Собака/Sobaka = Dog</td>
         <td>Спасибо/Spasiba = Thanks</td>
         <td>когда/kogda = When</td>
         <td>кто/kto = Who</td>
       </tr>
       <tr>
+      	<td>Медведь/Medvyed' = Bear</td>
         <td>До свидания/Do Svidaniya = Goodbye</td>
         <td>где/gde = Where</td>
         <td>дом/dom = House</td>
