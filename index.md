@@ -4,11 +4,11 @@
 <h3> <b> Welcome to LearnRussian! </b> </h3>
 
 <section>
-<h6> Here you can take your first steps to gaining understanding of a language that is used far and wide throughout the world. </h6>
+<h4> Here you can take your first steps to gaining understanding of a language that is used far and wide throughout the world. </h4>
 <section>	
 	</section>
 	<section>
-<h6> The aim of this site is to take your knowledge of Russian to an elementary/beginner level through a variety of essential topics, accompanied by small tests as you progress through the site. </h6>
+<h4> The aim of this site is to take your knowledge of Russian to an elementary/beginner level through a variety of essential topics, accompanied by small tests as you progress through the site. </h4>
 	</section>
   
   <p> Here are 5 key facts about The Russian Federation: </p>
@@ -22,7 +22,7 @@
  </section>
 
 <div class="container">
-<h6>Language Proficiency </h6>
+<h4>Language Proficiency </h4>
 <p>Levels:</p>
 <pre>
 <ul>
