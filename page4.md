@@ -52,10 +52,10 @@
 	<th>Phrases</th>
 		</tr>
 		<tr>
-        <th>Лошадь/Loshad' = Horse</th>
-        <th>Собака/Sobaka = Dog</th>
-	<th>Медведь/Medvyed' = Bear</th>
-	<th>Слон/Slon = Elephant</th>
+        <td>Лошадь/Loshad' = Horse</td>
+        <td>Собака/Sobaka = Dog</td>
+	<td>Медведь/Medvyed' = Bear</td>
+	<td>Слон/Slon = Elephant</td>
       		</tr>
       		<tr>
 	<td>Лошадь/Loshad' = Horse</td>
@@ -80,5 +80,6 @@
 </div>
 
 <h3> Test </h3>
+<p> Try to match the 'Russian Word' cards with their 'animal pair' card, in as few card turns as possible! Good Luck - Удачи!
 
 <iframe src="https://h5p.org/h5p/embed/1061858" width="1090" height="270" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
