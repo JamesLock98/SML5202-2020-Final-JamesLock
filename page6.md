@@ -1,8 +1,8 @@
-<h1> Extra Information & Resources</h1>
+<h3> Extra Information & Resources</h3>
 
 <p>If you are looking to expand your knowledge beyond this elementary/beginner site then we have a few sites in mind! </p>
 
-<p> We have here some external resources and links that we believe are vital to learning the fundamentals of Russian. These are some of the best sites widely used other language learners such as yourselves.</p>
+<p> We have here some external resources and links that we believe are vital to learning the fundamentals of Russian. These are some of the best sites widely used other language learners such as yourselves. In addition to these, we also have some links for a Russian Dictionary and The Foreign Travel Advice page from the UK government website, that is essential if you are planning a trip to Russia. <i>(Please check your own government website for planned trips to the Russian Federation)</i> </p>
 
 <head>
 <style>
@@ -35,6 +35,10 @@
 <h2><a href="https://www.loecsen.com/en/learn-russian" target="_blank">Loecsen</a></h2>
 <p> A site that covers numerous languages with a more premium feel and in depth coverage.</p>
 </div>
+<tr>
+  <p><a href="https://www.gov.uk/foreign-travel-advice/russia">Foreign Travel Advice Russia</a></p>
+  <p><a href="https://en.openrussian.org/">Open Russian Dictionary</a></p>
+  
 
 </body>
 
