@@ -1,4 +1,4 @@
-<h3> Extra Information & Resources</h3>
+<h1 style="color:red;">Extra Information</h1>
 
 <p>If you are looking to expand your knowledge beyond this elementary/beginner site then we have a few sites in mind! </p>
 
