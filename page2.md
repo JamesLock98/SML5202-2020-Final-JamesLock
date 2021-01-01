@@ -1,4 +1,5 @@
-<h1>Alphabet</h1>
+<h1 style="color:red;">Alphabet</h1>
+
 <p>Here are some useful tools and lessons to help you master the art of the Russian alphabet along with the names of the letters.</p>
 
 <p>According to Russian For Everyone</p>
