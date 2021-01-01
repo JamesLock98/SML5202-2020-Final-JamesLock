@@ -1,4 +1,4 @@
-<h1>Verbs & Vocabulary</h1>
+<h1 style="color:red;">Verbs & Vocabulary</h1>
 <p>Verbs are a part of speech used to describe motion or convey a subject in action. Verbs are of great importance in language learning - without verbs, sentences cannot exist. </p>
 <p> Verbs have an infinitive form - the basic dictionary form. Verbs must be conjugated to match with the subject sentence and create a pattern that can be understood more specifically. </p>
 <p> Vocabulary is a collection of words and/or phrases known to a person in a language. The more advanced the vocabulary, the more able a person is to communicate through writing, speech, reading and listening. </p>
