@@ -4,7 +4,7 @@
 <h3> <b> Welcome to LearnRussian! </b> </h3>
 
 <section>
-<h4> Here you can take your first steps to gaining understanding of a language that is used far and wide throughout the world. </h4>
+<h6> Here you can take your first steps to gaining understanding of a language that is used far and wide throughout the world. </h6>
 <section>	
 	</section>
 	<section>
@@ -22,7 +22,7 @@
  </section>
 
 <div class="container">
-<h1>Language Proficiency </h1>
+<h6>Language Proficiency </h6>
 <p>Levels:</p>
 <pre>
 <ul>
