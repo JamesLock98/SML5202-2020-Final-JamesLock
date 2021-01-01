@@ -1,4 +1,4 @@
-<h1>Grammar</h1>
+<h1 style="color:red;">Grammar</h1>
 <p> Definition: The whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology (including inflections) and sometimes also phonology and semantics. </p>
 <tr>
 <h2>Cases</h2>
