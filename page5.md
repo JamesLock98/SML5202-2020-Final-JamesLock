@@ -1,4 +1,4 @@
-<h1>Culture</h1>
+<h1 style="color:red;">Russian Culture</h1>
 <body>
 <h4> Welcome to our image gallery. Here you can see the National Flag, Moscow Centre and the President! </h4>
   
