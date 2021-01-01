@@ -1,12 +1,14 @@
  <div class="container">
-<h1> <b> Welcome to LearnRussian! </b> </h1>
+	
+<h1 style="color:red;">Home</h1>
+<h3> <b> Welcome to LearnRussian! </b> </h3>
 
 <section>
-<h2> Here you can take your first steps to gaining understanding of a language that is used far and wide throughout the world. </h2>
+<h4> Here you can take your first steps to gaining understanding of a language that is used far and wide throughout the world. </h4>
 <section>	
 	</section>
 	<section>
-<h3> The aim of this site is to take your knowledge of Russian to an elementary/beginner level through a variety of essential topics, accompanied by small tests as you progress through the site. </h3>
+<h6> The aim of this site is to take your knowledge of Russian to an elementary/beginner level through a variety of essential topics, accompanied by small tests as you progress through the site. </h6>
 	</section>
   
   <p> Here are 5 key facts about The Russian Federation: </p>
