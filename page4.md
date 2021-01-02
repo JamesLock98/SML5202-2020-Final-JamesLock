@@ -9,7 +9,7 @@
 </ul>  
 <br>
 
-<p style="text-align:center;">Here are some examples of some basic commonly used verbs in Russian, as well as how they are conjugated to fit past, present and future verb aspects. Followed by some basic and commonly used Russian words along with how to pronounce them.</p>
+<p>Here are some examples of some basic commonly used verbs in Russian, as well as how they are conjugated to fit past, present and future verb aspects. Followed by some basic and commonly used Russian words along with how to pronounce them.</p>
 
 <div class="container">
   <h2>Russian Verbs</h2>
