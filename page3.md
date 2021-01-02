@@ -20,30 +20,30 @@
 
 <div class="case">
 <h3 style="color:red;">Nominative</h3>
-<p>The <b>nominative</b> case answers the questions "who?" or "what?". It is an initial form. All dictionaries give nouns in the nominative.</p>
+<p>The <b>Nominative</b> case answers the questions "who?" or "what?". It is an initial form. All dictionaries give nouns in the nominative.</p>
 </div> 
 
 <div class="case">
 <h3 style="color:red;">Accusative</h3>
-<p>The <b>accusative</b> case designates the object of an action.</p>
+<p>The <b>Accusative</b> case designates the object of an action.</p>
 </div>
 
 <div class="case">
 <h3 style="color:red;">Genitive</h3>
-<p>The <b>genitive</b> case is used to show that something (somebody) belongs or refers to something (somebody). It can be translated by "of" in English.</p>
+<p>The <b>Genitive</b> case is used to show that something (somebody) belongs or refers to something (somebody). It can be translated by "of" in English.</p>
 </div>
 
 <div class="case">
 <h3 style="color:red;">Dative</h3>
- <p>The <b>dative</b> case designates that something is given or addressed to the person (object).</p>
+ <p>The <b>Dative</b> case designates that something is given or addressed to the person (object).</p>
 </div>
 
 <div class="case">
 <h3 style="color:red;">Instrumental</h3>
-<p>The <b>instrumental</b> case is used to denote an instrument that helps to make something.</p>
+<p>The <b>Instrumental</b> case is used to denote an instrument that helps to make something.</p>
 </div>
 
 <div class="case">
 <h3 style="color:red;">Prepositional</h3>
-<p>The <b>prepositional</b> case is used to designate a place, or a person (object) that is an object of speech and thought. This case is always used with a preposition.</p>
+<p>The <b>Prepositional</b> case is used to designate a place, or a person (object) that is an object of speech and thought. This case is always used with a preposition.</p>
 </div>
