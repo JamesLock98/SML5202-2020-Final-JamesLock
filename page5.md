@@ -28,7 +28,6 @@
         <div class="caption">
           <p>President Vladimir Vladimirovich Putin</p>
         </div>
-    </div>
   
 
 <tr>
