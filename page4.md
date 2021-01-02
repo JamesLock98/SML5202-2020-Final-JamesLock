@@ -12,7 +12,7 @@
 <p>Here are some examples of some basic commonly used verbs in Russian, as well as how they are conjugated to fit past, present and future verb aspects. Followed by some basic and commonly used Russian words along with how to pronounce them.</p>
 
 <div class="container">
-  <h2>Russian Verbs</h2>
+  	<h2 style="color:red;">Russian Verbs</h2>
   <p>Verb Aspect Examples:</p>            
   <table class="table table-striped">
     <thead>
@@ -43,7 +43,7 @@
 </div>
 
 <div class="container">
-  <h2>Russian Vocabulary</h2>
+ 	<h2 style="color:red;">Russian Vocabulary</h2>
   <p>Word Examples:</p>            
   <table class="table table-striped">
 	   <tbody>
@@ -82,7 +82,7 @@
 </div>
 </div>
 
-<h3> Test </h3>
+<h3 style="color:red;">Test</h3>
 <p> Try to match the 'Russian Word' cards with their 'animal pair' card, in as few card turns as possible! Good Luck - Удачи!
 
 <iframe src="https://h5p.org/h5p/embed/1061858" width="1090" height="270" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
