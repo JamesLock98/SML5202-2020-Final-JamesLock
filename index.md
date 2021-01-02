@@ -1,9 +1,9 @@
  <div class="container">
 
 <h1 style="color:red;">Home</h1>
-<hr>
-<h3 style="color:red;"><b>Welcome to LearnRussian!</b></h3>
-<hr>
+<p></p>
+<h3 style="color:red;">Welcome to LearnRussian!</h3>
+<p></p>
 <section>
 <h4> Here you can take your first steps to gaining understanding of a language that is used far and wide throughout the world. </h4>
 <section>	
