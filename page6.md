@@ -1,3 +1,4 @@
+<div class="container">
 <h1 style="color:red;">Extra Information</h1>
 
 <p>If you are looking to expand your knowledge beyond this elementary/beginner site then we have a few sites in mind! </p>
@@ -41,7 +42,9 @@
 </div>
 <tr>
   <h4> Travel Advice & Dictionary </h4>
+  <p></p>
   <p><a href="https://www.gov.uk/foreign-travel-advice/russia">Foreign Travel Advice Russia</a></p>
   <p><a href="https://en.openrussian.org/">Open Russian Dictionary</a></p>
+</div>
 
 
