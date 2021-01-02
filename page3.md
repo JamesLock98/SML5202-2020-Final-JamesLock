@@ -10,7 +10,7 @@
 <style>
 .case {
   background-color: white;
-  color: red;
+  color: black;
   border: 5px solid red;
   margin: 5px;
   padding: 10px;
@@ -19,7 +19,7 @@
 <body>
 
 <div class="case">
-<h2>Nominative</h2>
+<h2 style="color:red;">Nominative</h2>
 <p>The <b>nominative</b> case answers the questions "who?" or "what?". It is an initial form. All dictionaries give nouns in the nominative.</p>
 </div> 
 
