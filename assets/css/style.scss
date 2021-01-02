@@ -26,7 +26,11 @@ body {
 	text-align: center;
 	background: #392986;
 	color: aliceblue;
-	background-image: url('https://i1.wp.com/www.youngpioneertours.com/wp-content/uploads/2020/03/Russian-Flag.jpg?resize=500%2C375&ssl=1');
+  background-image: url('https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/255px-Flag_of_Russia.svg.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+
 }
 
 /* remove rounded corners and margin from navigation bar */
