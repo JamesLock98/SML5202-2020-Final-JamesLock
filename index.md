@@ -1,8 +1,9 @@
  <div class="container">
 
 <h1 style="color:red;">Home</h1>
+<hr>
 <h3> <b> Welcome to LearnRussian! </b> </h3>
-
+<hr>
 <section>
 <h4> Here you can take your first steps to gaining understanding of a language that is used far and wide throughout the world. </h4>
 <section>	
@@ -10,7 +11,7 @@
 	<section>
 <h4> The aim of this site is to take your knowledge of Russian to an elementary/beginner level through a variety of essential topics, accompanied by small tests as you progress through the site. </h4>
 	</section>
-  
+  <hr>
   <p> Here are 5 key facts about The Russian Federation: </p>
   <ol> 
 	<li> Capital: Moscow </li>
