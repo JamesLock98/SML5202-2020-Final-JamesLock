@@ -23,12 +23,12 @@
 
 <div class="sites">
 <h2><a href="http://masterrussian.com//" target="_blank">Master Russian</a> </h2>
-<p>A great site all-round for all levels with vast resources and tests. </p>
+<p>A great site all-round for all levels with vast resources and tests.</p>
 </div> 
 
 <div class="sites">
 <h2><a href="http://www.russianlessons.net/" target="_blank">Russian Language Lessons</a></h2>
-<p>Similar to masterrussian, simple and effective. </p>
+<p>Similar to masterrussian, simple and effective.</p>
 </div>
 
 <div class="sites">
@@ -41,7 +41,7 @@
 <p> A site that covers numerous languages with a more premium feel and in depth coverage.</p>
 </div>
 <tr>
-  <h4> Travel Advice & Dictionary </h4>
+  <h2>Travel Advice & Dictionary</h2>
   <p></p>
   <p><a href="https://www.gov.uk/foreign-travel-advice/russia">Foreign Travel Advice Russia</a></p>
   <p><a href="https://en.openrussian.org/">Open Russian Dictionary</a></p>
