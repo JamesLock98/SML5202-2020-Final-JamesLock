@@ -2,7 +2,7 @@
 
 <h1 style="color:red;">Home</h1>
 <hr>
-<h3> <b> Welcome to LearnRussian! </b> </h3>
+<h3 style="color:red;"><b> Welcome to LearnRussian! </b></h3>
 <hr>
 <section>
 <h4> Here you can take your first steps to gaining understanding of a language that is used far and wide throughout the world. </h4>
