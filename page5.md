@@ -30,12 +30,12 @@
         </div>
     </div>
   </div>
-      <br>
+      <hr>
+  
 <p> Learning a foreign language can seem a daunting task. When we learn a language, in order to truly immerse ourselves, we must also learn about the culture, history and traditions of the country. </p>
+<p> It is  important that we understand what a native Russian speaker sounds like in their own environment. So here we have a great video for you to listen to that gives some insight the phonetic sounds of Russian with some English subtitles <i>so no-one gets lost!</i></p>
 
-<p> It is  important that we understand what a native Russian speaker sounds like in their own environment. So here we have a great video for you to listen to that gives some insight the phonetic sounds of Russian with some English subtitles so no-one gets lost!</p>
-
-
+<hr>
  <div class="container">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/F_2hBzOneBk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
