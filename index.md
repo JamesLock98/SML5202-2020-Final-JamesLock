@@ -1,7 +1,7 @@
  <div class="container">
 
 <h1 style="color:red;">Home</h1>
-<p></p>
+<br>
 <h3 style="color:red;">Welcome to LearnRussian!</h3>
 <p></p>
 <section>
