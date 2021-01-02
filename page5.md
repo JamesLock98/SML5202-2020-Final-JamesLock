@@ -1,3 +1,4 @@
+<div class="container">
 <h1 style="color:red;">Russian Culture</h1>
 <body>
 <h4> Welcome to our image gallery. Here you can see the National Flag, Moscow Centre and the President! </h4>
@@ -39,6 +40,7 @@
 
  <div class="container">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/F_2hBzOneBk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 </div>
 <tr>
 
