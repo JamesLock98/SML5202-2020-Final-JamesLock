@@ -28,6 +28,8 @@
         <div class="caption">
           <p>President Vladimir Vladimirovich Putin</p>
         </div>
+    </div>
+  </div>
       <br>
 <p> Learning a foreign language can seem a daunting task. When we learn a language, in order to truly immerse ourselves, we must also learn about the culture, history and traditions of the country. </p>
 
@@ -36,7 +38,6 @@
 
  <div class="container">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/F_2hBzOneBk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 </div>
 <tr>
 
