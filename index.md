@@ -21,7 +21,7 @@
 	<li> Currency: Russian Ruble </li>
   </ol>
  </section>
-
+<hr>
 <div class="container">
 <h4>Language Proficiency </h4>
 <p>Levels:</p>
