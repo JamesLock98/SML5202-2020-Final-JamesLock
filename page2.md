@@ -8,7 +8,7 @@
 <p>Russian is an Eastern Slavonic language closely related to Ukrainian and Belorussian with about 277 million speakers in Russia and 30 other countries.</p>
 
 <p>There are 33 letters in the Russian Alphabet: 10 vowels, 21 consonants, and 2 signs (ь, ъ).</p>
-
+<hr>
 <p style="text-align:center; color:red;"><b>Cyrillic History Fact:</b></p>
 <blockquote cite="https://learnrussian.rt.com/alphabet/the-history-of-the-cyrillic-alphabet/">
 
