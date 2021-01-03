@@ -40,8 +40,8 @@
 <h2><a href="https://www.loecsen.com/en/learn-russian" target="_blank">Loecsen</a></h2>
 <p> A site that covers numerous languages with a more premium feel and in depth coverage.</p>
 </div>
-<tr>
-  <h2>Travel Advice & Dictionary</h2>
+<br>
+  <h2 style="color:red;">Travel Advice & Dictionary</h2>
   <br>
   <p><a href="https://www.gov.uk/foreign-travel-advice/russia">Foreign Travel Advice Russia</a></p>
   <p><a href="https://en.openrussian.org/">Open Russian Dictionary</a></p>
