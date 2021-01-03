@@ -2,7 +2,7 @@
 <h1 style="text-align:center; color:red;">Alphabet</h1>
 <hr>
  <p><b>Definition:</b> a set of letters or symbols in a fixed order used to represent the basic set of speech sounds of a language, especially the set of letters from A to Z.</p>
- <br>
+ <hr>
 <p>Here are some useful tools and lessons to help you master the art of the Russian alphabet along with the names of the letters.</p>
 
 <p>Russian is an Eastern Slavonic language closely related to Ukrainian and Belorussian with about 277 million speakers in Russia and 30 other countries.</p>
