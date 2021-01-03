@@ -20,5 +20,8 @@
 <div class="container">
 <p style="text-align:center;"><img src="https://bencrowder.net/images/languages/RussianAlphabet.png/" alt="Russian Alphabet" width="900" height="705"></p>
  </div>
+ 
+ <p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page3.html" class="btn2"> Next </a> </p>
+<div style="clear:both;"> </div>
  <hr>  
   <p> Last updated: 10<sup>th</sup> January 2021 </p>
