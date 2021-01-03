@@ -6,8 +6,8 @@
 <br>
 <section>
 <p> Here you can take your first steps to gaining understanding of an offical UN language that is used far and wide throughout the world. </p>
-<section>	
 </section>
+		<br>
 <section>
 <p>This site is targeted at those with no pre-existing knowledge of Russian with the aim of reaching an elementary level through the completion of the variety of essential topics, accompanied by small tests based on this site. </p>
 		<br>
