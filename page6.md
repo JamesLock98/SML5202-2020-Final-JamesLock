@@ -45,6 +45,8 @@
   <br>
   <p><a href="https://www.gov.uk/foreign-travel-advice/russia">Foreign Travel Advice Russia</a></p>
   <p><a href="https://en.openrussian.org/">Open Russian Dictionary</a></p>
+   <hr>  
+  <p> Last updated: 10<sup>th</sup> January 2021 </p>
 <footer>
   <p>Thanks from the LearnRussian Team!</p>
 </footer>
