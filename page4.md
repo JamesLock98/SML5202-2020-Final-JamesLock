@@ -58,25 +58,25 @@
         <td>Лошадь/Loshad' = Horse</td>
 	<td>Нет/Nyet = No</td>
 	<td> Плохо/Ploho = Bad</td>
-	<td>Кто/kto = Who</td>
+	<td>Кто/Kto = Who</td>
       		</tr>
       		<tr>
-	<td>Собака/Sobaka = Dog</td>
+	<td>Собака/Sabaka = Dog</td>
 	<td>Да/Da = Yes</td>
-	<td>Хорошо/Horosho = Good</td>
-	<td>Когда/kogda = When</td>
+	<td>Хорошо/Harasho = Good</td>
+	<td>Когда/Kogda = When</td>
      		</tr>
       		<tr>
-     	<td>Медведь/Medvyed' = Bear</td>
+     	<td>Медведь/Myedvyed' = Bear</td>
      	<td>Спасибо/Spasiba = Thanks</td>
       	<td>Как дела?/Kak Dyela? = How are you</td>
-	<td>Что/chto = What/that</td>
+	<td>Что/Shto = What/That</td>
       		</tr>
       		<tr>
       	<td>Слон/Slon = Elephant</td>
 	<td>Пожалуйста/Poshalooista = Please/Welcome</td>
 	<td>До свидания/Do Svidaniya = Goodbye</td>
-	<td>Где/gde = Where</td>  
+	<td>Где/Gdye = Where</td>  
       </tr>
     </tbody>
   </table>
