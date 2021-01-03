@@ -1,7 +1,7 @@
 <div class="container">
 <h1 style="text-align:center; color:red;">Alphabet</h1>
 <hr>
- <p><b>Definition:</b> a set of letters or symbols in a fixed order used to represent the basic set of speech sounds of a language, especially the set of letters from A to Z.</p>
+ <p><b>Definition:</b>A set of letters or symbols in a fixed order used to represent the basic set of speech sounds of a language, especially the set of letters from A to Z.</p>
  <hr>
 <p>Here are some useful tools and lessons to help you master the art of the Russian alphabet along with the names of the letters.</p>
 
