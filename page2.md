@@ -13,3 +13,5 @@
 <p>The Cyrillic alphabet was introduced into Russia at the time of its conversion to Christianity (988 AD). The alphabet, the Cyrillic script is named in honor of the Byzantine scholar and monk, Cyril (827-869 AD), who, together with his brother Methodius (826-885 AD), created the first Slavic writing system in the second half of the ninth century in order to translate the Bible and other Christian texts into the Slavic languages.</p>
 </blockquote>
 </div>
+ <hr>  
+  <p> Last updated: 10<sup>th</sup> January 2021 </p>
