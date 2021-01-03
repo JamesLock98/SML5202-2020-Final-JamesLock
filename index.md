@@ -21,7 +21,7 @@
 	<li> <b>Area</b>: 17.1 million km </li>
 	<li> <b>President</b>: Vladimir Vladimirovich Putin </li>
 	<li> <b>Currency</b>: Russian Ruble </li>
-  </ol></p>
+  </ol> </p>
   
 <hr>
 <div class="container">
