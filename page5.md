@@ -3,9 +3,7 @@
   <hr>
 <body>
 <h4> Welcome to our image gallery. Here you can see the National Flag, Moscow Centre and the President! </h4>
-  
   <tr>
-  
   <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
@@ -31,7 +29,8 @@
         </div>
     </div>
   </div>
-  
+  <br>
+    <br>
   <br>
 <p> Learning a foreign language can seem a daunting task. When we learn a language, in order to truly immerse ourselves, we must also learn about the culture, history and traditions of the country. </p>
 <p> It is  important that we understand what a native Russian speaker sounds like in their own environment. So here we have a great video for you to listen to that gives some insight the phonetic sounds of Russian with some English subtitles (<i>so no-one gets lost!</i>)</p>
