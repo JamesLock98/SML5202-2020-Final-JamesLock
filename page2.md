@@ -1,5 +1,5 @@
 <div class="container">
-<h1 style="color:red;">Alphabet</h1>
+<h1 style="text-align:center; color:red;">Alphabet</h1>
 <hr>
 <p>Here are some useful tools and lessons to help you master the art of the Russian alphabet along with the names of the letters.</p>
 
