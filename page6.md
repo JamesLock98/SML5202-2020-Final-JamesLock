@@ -23,22 +23,22 @@
 
 <div class="sites">
 <h2><a href="http://masterrussian.com//" target="_blank">Master Russian</a> </h2>
-<p>A great site all-round for all levels with vast resources and tests.</p>
+<p>Offers material available for all levels with vast resources and tests for those who wish to take their Russian above and beyond.</p>
 </div> 
 
 <div class="sites">
 <h2><a href="http://www.russianlessons.net/" target="_blank">Russian Language Lessons</a></h2>
-<p>Similar to masterrussian, simple and effective.</p>
+<p>Simple and effective - similar to Master Russian.</p>
 </div>
 
 <div class="sites">
 <h2><a href="http://www.russianforeveryone.com/" target="_blank">Russian For Everyone</a></h2>
-<p>A site designed for all levels.</p>
+<p>A site heavily-focused on grammar.</p>
 </div>
 
 <div class="sites">
 <h2><a href="https://www.loecsen.com/en/learn-russian" target="_blank">Loecsen</a></h2>
-<p> A site that covers numerous languages with a more premium feel and in depth coverage.</p>
+<p> A site with a more premium user-interface, it covers numerous languages in great depth.</p>
 </div>
 <br>
   <h2 style="color:red;">Travel Advice & Dictionary</h2>
@@ -48,7 +48,7 @@
    <hr>  
   <p> Last updated: 10<sup>th</sup> January 2021 </p>
 <footer>
-  <p>Thanks from the LearnRussian Team!</p>
+  <p>Thanks for checking us out, from the LearnRussian Team!</p>
 </footer>
 
 
