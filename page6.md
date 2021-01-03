@@ -1,5 +1,5 @@
 <div class="container">
-<h1 style="color:red;">Extra Information</h1>
+<h1 style="text-align:center; color:red;">Extra Information</h1>
 <hr>
 <p>If you are looking to expand your knowledge beyond this elementary/beginner site then we have a few sites in mind! </p>
 <br>
