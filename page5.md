@@ -2,7 +2,9 @@
 <h1 style="text-align:center; color:red;">Russian Culture</h1>
   <hr>
 <body>
-<h4> Welcome to our image gallery. Here you can see the National Flag, Moscow Centre and the President! </h4>
+  <h4> Learning a foreign language can seem a daunting task. When we learn a language, in order to truly immerse ourselves, we must also learn about the culture, history and traditions of the country. In our Russian Culture page you can see our image gallery and a video interview from UFC Lightweight Champion Khabib Nurmagomedov.</h4>
+  <hr>
+<p> Gallery: National Flag, Moscow Centre and the President. </p>
   <tr>
   <div class="row">
   <div class="col-md-4">
@@ -31,16 +33,13 @@
   </div>
   <br>
     <hr>
-<p> Learning a foreign language can seem a daunting task. When we learn a language, in order to truly immerse ourselves, we must also learn about the culture, history and traditions of the country. </p>
-<p> It is  important that we understand what a native Russian speaker sounds like in their own environment. So here we have a great video for you to listen to that gives some insight the phonetic sounds of Russian with some English subtitles (<i>so no-one gets lost!</i>)</p>
-    
-<br>
     
  <div class="container">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/F_2hBzOneBk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <tr>
  <br>
+  <p> It is  important that we understand what a native Russian speaker sounds like in their own environment. So here we have a great video for you to listen to that gives some insight the phonetic sounds of Russian with some English subtitles (<i>so no-one gets lost!</i>)</p>
 <div class="container">
 <p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page6.html" class="btn2"> NEXT </a> </p>
 <div style="clear:both;"> </div>
