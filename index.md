@@ -12,7 +12,7 @@
 <p> The aim of this site is to take your knowledge of Russian to an elementary/beginner level through a variety of essential topics, accompanied by small tests as you progress through the site. </p>
 	</section>
   <hr>
-  <p> Here are 5 key facts about The Russian Federation: </p>
+  <p> 5 key facts about The Russian Federation: </p>
   <ol> 
 	<li> Capital: Moscow </li>
 	<li> Population: 144.5 million </li>
@@ -40,4 +40,4 @@
 <p> So when you're ready, lets begin with the Alphabet page! </p>
 	
  <hr>  
-  <p> Last updated: 10<sup>th</sup> January 2021
+  <p> Last updated: 10<sup>th</sup> January 2021 </p>
