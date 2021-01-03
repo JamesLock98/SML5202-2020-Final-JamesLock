@@ -90,8 +90,9 @@
  <hr>  
  <br>
 <div class="container">
-<p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page5.html" class="btn2"> Next </a> </p>
+<p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page5.html" class="btn2"> NEXT </a> </p>
 <div style="clear:both;"> </div>
  </div>
  <hr>
+ <div class="container">
   <p> Last updated: 10<sup>th</sup> January 2021 </p>
