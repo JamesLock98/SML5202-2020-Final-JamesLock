@@ -17,6 +17,8 @@
 <p>Based on the Greek ceremonial script, the original Cyrillic alphabet included the 24 letters of the Greek alphabet and 19 letters for sounds specific to the Slavic language.</p>
 </blockquote>
 </div>
+<div class="container">
 <img src="https://bencrowder.net/images/languages/RussianAlphabet.png/" alt="Russian Alphabet" width="700" height="565">
+ </div>
  <hr>  
   <p> Last updated: 10<sup>th</sup> January 2021 </p>
