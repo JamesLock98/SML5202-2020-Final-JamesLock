@@ -42,9 +42,10 @@
 </div>
 <hr>
 <tr>
-  <h2 style="color:red;">Travel Advice & Dictionary</h2>
+ <h2 style="text-align:center; color:red;">Travel Advice & Information</h2>
   <hr>
   <p><a href="https://www.gov.uk/foreign-travel-advice/russia">Foreign Travel Advice Russia</a></p>
+  <br>
   <p><a href="https://en.openrussian.org/">Open Russian Dictionary</a></p>
    <hr>  
   <p> Last updated: 10<sup>th</sup> January 2021 </p>
