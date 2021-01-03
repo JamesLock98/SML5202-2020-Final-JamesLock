@@ -40,6 +40,8 @@
 </div>
 
 <p> So when you're ready, lets begin with the Alphabet page! </p>
+<p> <a style="float:right;" href="put page name here.html" class="btn2"> put button name here</a> </p>
+<div style="clear:both;"> </div>
 	
  <hr>  
   <p> Last updated: 10<sup>th</sup> January 2021 </p>
