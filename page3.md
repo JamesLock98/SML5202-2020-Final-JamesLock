@@ -50,7 +50,9 @@
 <p>The <b>Prepositional</b> case is used to designate a place, or a person (object) that is an object of speech and thought. This case is always used with a preposition.</p>
 </div>
 
+<div class="container">
 <p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page3.html" class="btn2"> Next </a> </p>
 <div style="clear:both;"> </div>
+ </div>
  <hr>  
   <p> Last updated: 10<sup>th</sup> January 2021 </p>
