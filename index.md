@@ -14,7 +14,7 @@
 <p>The site pages are listed in the order we would suggest the student should attempt, based on importance and complexity of each subject. This begins with Alphabet and works chronologically through Grammar, Verbs & Vocabulary, Russian Culture and Extra Information. 
 	</section>
   <hr>
-  <h4 style="text-align:center; color:red;"><b>5 Key facts about The Russian Federation:</b></h4>
+  <h4 style="text-align:center; color:red;">5 Key Facts about The Russian Federation:</h4>
   <ol> 
 	  <li> <b>Capital</b>: Moscow </li>
 	<li> <b>Population</b>: 144.5 million </li>
