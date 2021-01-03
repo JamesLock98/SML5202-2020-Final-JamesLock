@@ -5,20 +5,22 @@
 <h3 style="color:red;">Welcome to LearnRussian!</h3>
 <br>
 <section>
-<p> Here you can take your first steps to gaining understanding of a language that is used far and wide throughout the world. </p>
+<p> Here you can take your first steps to gaining understanding of an offical UN language that is used far and wide throughout the world. </p>
 <section>	
-	</section>
-	<section>
-<p> The aim of this site is to take your knowledge of Russian to an elementary/beginner level through a variety of essential topics, accompanied by small tests as you progress through the site. </p>
+</section>
+<section>
+<p>This site is targeted at those with no pre-existing knowledge of Russian with the aim of reaching an elementary level through the completion of the variety of essential topics, accompanied by small tests based on this site. </p>
+		<br>
+<p>The site pages are listed in the order we would suggest the student should attempt, based on importance and complexity of each subject. This begins with Alphabet and works chronologically through Grammar, Verbs & Vocabulary, Russian Culture and Extra Information. 
 	</section>
   <hr>
   <p><b>5 key facts about The Russian Federation:</b></p>
   <ol> 
-	<li> Capital: Moscow </li>
-	<li> Population: 144.5 million </li>
-	<li> Area: 17.1 million km </li>
-	<li> President: Vladimir Vladimirovich Putin </li>
-	<li> Currency: Russian Ruble </li>
+	  <li> <b>Capital</b>: Moscow </li>
+	<li> <b>Population</b>: 144.5 million </li>
+	<li> <b>Area</b>: 17.1 million km </li>
+	<li> <b>President</b>: Vladimir Vladimirovich Putin </li>
+	<li> <b>Currency</b>: Russian Ruble </li>
   </ol>
  </section>
 <hr>
