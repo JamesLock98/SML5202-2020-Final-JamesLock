@@ -40,6 +40,11 @@
  <iframe width="560" height="315" src="https://www.youtube.com/embed/F_2hBzOneBk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <tr>
+ <br>
+<div class="container">
+<p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page6.html" class="btn2"> Next </a> </p>
+<div style="clear:both;"> </div>
+ </div>
 <hr>  
   <p> Last updated: 10<sup>th</sup> January 2021 </p>
 
