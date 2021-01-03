@@ -1,6 +1,6 @@
 <div class="container">
 <h1 style="color:red;">Alphabet</h1>
-<br>
+<hr>
 <p>Here are some useful tools and lessons to help you master the art of the Russian alphabet along with the names of the letters.</p>
 
 <p>Russian is an Eastern Slavonic language closely related to Ukrainian and Belorussian with about 277 million speakers in Russia and 30 other countries.</p>
