@@ -9,7 +9,7 @@
 
 <p>There are 33 letters in the Russian Alphabet: 10 vowels, 21 consonants, and 2 signs (ь, ъ).</p>
 <hr>
-<p style="text-align:center; color:red;"><b>Cyrillic History Fact:</b></p>
+<h3 style="text-align:center; color:red;"><b>Cyrillic History Fact:</b></h3>
 <blockquote cite="https://learnrussian.rt.com/alphabet/the-history-of-the-cyrillic-alphabet/">
 
 <p>The Cyrillic alphabet owes its name to the 9th century Byzantine missionary St. Cyril, who, along with his brother, Methodius, created the first Slavic alphabet—the Glagolitic—in order to translate Greek religious text to Slavic. It is on the basis of this alphabet that the Cyrillic alphabet was developed in the First Bulgarian Empire during the 10th century AD by the followers of the brothers, who were beatified as saints.</p>
