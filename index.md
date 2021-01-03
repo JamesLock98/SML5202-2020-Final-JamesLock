@@ -40,7 +40,7 @@
 </div>
 
 <p> So when you're ready, lets begin with the Alphabet page! </p>
-<p> <a style="float:right;" href="put page name here.html" class="btn2"> put button name here</a> </p>
+<p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page2.html" class="btn2"> Next </a> </p>
 <div style="clear:both;"> </div>
 	
  <hr>  
