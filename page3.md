@@ -1,5 +1,5 @@
 <div class="container">
- <h1 style="color:red;">Grammar</h1>
+<h1 style="text-align:center; color:red;">Grammar</h1>
  <hr>
  <p> <b>Definition</b>: The whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology (including inflections) and sometimes also phonology and semantics. </p>
 <hr>
