@@ -22,7 +22,6 @@
 	<li> <b>President</b>: Vladimir Vladimirovich Putin </li>
 	<li> <b>Currency</b>: Russian Ruble </li>
   </ol>
- </section>
 <hr>
 <div class="container">
 <h4>Language Proficiency </h4>
