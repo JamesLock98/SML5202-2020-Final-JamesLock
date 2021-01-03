@@ -18,7 +18,7 @@
 </blockquote>
 </div>
 <div class="container">
-<img src="https://bencrowder.net/images/languages/RussianAlphabet.png/" alt="Russian Alphabet" width="900" height="705">
+<p style="text-align:right;"><img src="https://bencrowder.net/images/languages/RussianAlphabet.png/" alt="Russian Alphabet" width="900" height="705"></p>
  </div>
  <hr>  
   <p> Last updated: 10<sup>th</sup> January 2021 </p>
