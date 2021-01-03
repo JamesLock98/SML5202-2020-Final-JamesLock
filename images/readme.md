@@ -12,4 +12,5 @@ background-image: url('https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag
 
 Russian Culture:
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" alt="Russian Flag" style="width:75%"> 
+<img src="https://www.state.gov/wp-content/uploads/2018/11/Russia-2499x1406.jpg" alt="Moscow" style="width:75%">
 
