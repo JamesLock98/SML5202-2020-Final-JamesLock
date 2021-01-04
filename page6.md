@@ -44,9 +44,9 @@
 <tr>
  <h2 style="text-align:center; color:red;">Travel Advice & Information</h2>
   <hr>
-  <p><a href="https://www.gov.uk/foreign-travel-advice/russia">Foreign Travel Advice Russia</a></p>
+  <h3><a href="https://www.gov.uk/foreign-travel-advice/russia">Foreign Travel Advice Russia</a></h3>
   <br>
-  <p><a href="https://en.openrussian.org/">Open Russian Dictionary</a></p>
+  <h3><a href="https://en.openrussian.org/">Open Russian Dictionary</a></h3>
    <br>  
  <hr>
   <p> <a style="float:left;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page5.html" class="btn2"> <b>PREVIOUS</b> </a> </p>
