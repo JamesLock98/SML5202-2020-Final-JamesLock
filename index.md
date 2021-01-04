@@ -34,7 +34,7 @@
   <li>Advanced</li>
   <li>Intermediate</li>
   <li>Beginner</li>
-  <li>Elementary</li>
+  <li style="text-align:center; color:red;">Elementary</li>
 </ul>  
 </pre>
 </div>
