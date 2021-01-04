@@ -40,7 +40,8 @@
 <tr>
  <br>
   <p> It is  important that we understand what a native Russian speaker sounds like in their own environment. So here we have a great video for you to listen to that gives some insight the phonetic sounds of Russian with some English subtitles (<i>so no-one gets lost!</i>)</p>
-  <hr>
+<br>  
+ <hr>
 <div class="container">
  <p> <a style="float:left;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page4.html" class="btn2"> <b>PREVIOUS</b> </a> </p>
 <p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page6.html" class="btn2"> <b>NEXT</b> </a> </p>
