@@ -40,12 +40,12 @@
         <li>Ice Hockey </li>
        <li>Wrestling </li>
       </ol>
+          <br>
     <li> Popular Foods:</li>
       <ol>
         <li> Pelmeni </li>  
         <li> Borscht </li>
-        <li>Schi </li>
-      <li> Blini </li>
+        <li>Blini </li>
       </ol>
   </ul>
     <p> Religion is a very important part of Russian lives, whilst many religions live side by side, Orthodox Christianity counts for the greatest percentage of the Russian population at 71%.</p>
