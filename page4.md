@@ -82,7 +82,8 @@
   </table>
 </div>
 </div>
-
+<hr>
+<div class="container">
 <h3 style="color:red;">Test</h3>
 <p> Try to match the 'Russian Word' cards with their 'animal pair' card, in as few card turns as possible! Good Luck - Удачи!
 
