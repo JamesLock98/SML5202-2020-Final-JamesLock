@@ -25,7 +25,7 @@
   <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" alt="Russian Flag" style="width:105%">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" alt="Russian Flag" style="width:80%">
         <div class="caption">
           <p>The National Flag of Russia</p>
         </div>
