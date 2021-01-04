@@ -25,7 +25,7 @@
   <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" alt="Russian Flag" style="width:85%">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" alt="Russian Flag" style="width:82%">
         <div class="caption">
           <p>The National Flag of Russia</p>
         </div>
@@ -33,6 +33,21 @@
   </div>
   <div class="container">
     <hr>
+      <ul> 
+        <li> <b>Popular Sports: </li>
+      <ol>
+        <li> Football </li>
+        <li>Ice Hockey </li>
+       <li>Wrestling </li>
+      </ol>
+    <li> Popular Foods:</li>
+      <ol>
+        <li> Pelmeni </li>  
+        <li> Borscht </li>
+        <li>Schi </li>
+      <li> Blini </li>
+      </ol>
+  </ul>
     <p> Religion is a very important part of Russian lives, whilst many religions live side by side, Orthodox Christianity counts for the greatest percentage of the Russian population at 71%.</p>
     <br>
      <p> It is  important that we understand what a native Russian speaker sounds like in their own environment. So here we have a great video for you to listen to that gives some insight the phonetic sounds of Russian with some English subtitles (<i>so no-one gets lost!</i>)</p>
