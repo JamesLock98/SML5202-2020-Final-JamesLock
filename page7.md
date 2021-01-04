@@ -1,3 +1,4 @@
+<div class="container">
 <h1 style="text-align:center; color:red;">Alphabet Test</h1>
 <p> <a style="float:left;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page2.html" class="btn2"> <b>PREVIOUS</b> </a> </p>
 
