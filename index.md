@@ -17,8 +17,8 @@
   <h4 style="text-align:center; color:red;">5 Key Facts about The Russian Federation:</h4>
   <ol> 
 	  <li> <b>Capital</b>: Moscow </li>
-	<li> <b>Population</b>: 144.5 million </li>
-	<li> <b>Area</b>: 17.1 million km </li>
+	<li> <b>Population</b>: 144.5 million (#9 Largest Country) </li>
+	<li> <b>Area</b>: 17.1 million km (#1 Largest Country) </li>
 	<li> <b>President</b>: Vladimir Vladimirovich Putin </li>
 	<li> <b>Currency</b>: Russian Ruble </li>
   </ol>
