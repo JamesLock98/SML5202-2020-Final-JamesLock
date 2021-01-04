@@ -21,7 +21,7 @@
 <p style="text-align:center;"><img src="https://bencrowder.net/images/languages/RussianAlphabet.png/" alt="Russian Alphabet" width="900" height="705"></p>
  </div>
  <hr>  
- <p><b> Now that you've had a chance to look at the alphabet, there is a test for you to try out.</b>
+ <p style="text-align:center; color:red;"><b>Now that you've had a chance to look at the alphabet, there is a test for you to try out.</b></p>
  <br>  
  <p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page7.html" class="btn2"> <b>CONTINUE TO TEST</b> </a> </p> 
  <br>
