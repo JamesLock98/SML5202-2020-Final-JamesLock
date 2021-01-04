@@ -24,9 +24,9 @@
  <hr>  
  <p><b> Now that you've had a chance to look at the alphabet, there is a test for you to try out.</b>
   <div class="container">
-<p> <a style="float:left;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page2.html" class="btn2"> <b>PREVIOUS</b> </a> </p>
-<p> <a style="float:centre;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page7.html" class="btn2"> <b>CONTINUE TO TEST</b< </a> </p> <p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page3.html" class="btn2"> <b>NEXT</b> </a> </p>
-
+<p> <a style="float:left;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/" class="btn2"> <b>PREVIOUS</b> </a> </p>
+ <p> <a style="float:centre;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page7.html" class="btn2"> <b>CONTINUE TO TEST</b> </a> </p> 
+ <p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page3.html" class="btn2"> <b>NEXT</b> </a> </p>
 
  <br>
   <p> Last updated: 10<sup>th</sup> January 2021 </p>
