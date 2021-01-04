@@ -49,7 +49,7 @@
   <p><a href="https://en.openrussian.org/">Open Russian Dictionary</a></p>
    <hr>  
   <p> <a style="float:left;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page5.html" class="btn2"> <b>PREVIOUS</b> </a> </p>
-
+<hr>
   <p> Last updated: 10<sup>th</sup> January 2021 </p>
 <footer>
   <p>Thanks for checking us out, from the LearnRussian Team!</p>
