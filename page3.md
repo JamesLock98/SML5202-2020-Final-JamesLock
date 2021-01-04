@@ -52,8 +52,10 @@
 <br>
 <iframe src="https://h5p.org/h5p/embed/1084475" width="1090" height="244" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <br>
+
 <div class="container">
-<p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page4.html" class="btn2"> NEXT </a> </p>
+ <p> <a style="float:left;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page2.html" class="btn2"> <b>PREVIOUS</b> </a> </p>
+<p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page4.html" class="btn2"> <b>NEXT</b> </a> </p>
 <div style="clear:both;"> </div>
  </div>
 
