@@ -21,10 +21,9 @@
 <p style="text-align:center;"><img src="https://bencrowder.net/images/languages/RussianAlphabet.png/" alt="Russian Alphabet" width="900" height="705"></p>
  </div>
 <br>
- </div>
  <hr>  
  <p><b> Now that you've had a chance to look at the alphabet, there is a test for you to try out.</b>
- <iframe src="https://h5p.org/h5p/embed/1084486" width="540" height="650" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+ <iframe src="https://h5p.org/h5p/embed/1084486" width="270" height="325" frameborder="5" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
  <br>
  <div class="container">
 <p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page3.html" class="btn2"> NEXT </a> </p>
