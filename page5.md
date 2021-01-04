@@ -34,14 +34,14 @@
   <div class="container">
     <hr>
       <ul> 
-        <li> <b>Popular Sports: 
+        <li> <b>Popular Sports</b>: 
       <ol>
         <li> Football </li>
         <li>Ice Hockey </li>
        <li>Wrestling </li>
       </ol>
           <br>
-    <li> Popular Foods:</li>
+        <li> <b>Popular Foods</b>:</li>
       <ol>
         <li> Pelmeni </li>  
         <li> Borscht </li>
