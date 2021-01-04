@@ -34,7 +34,7 @@
   <div class="container">
     <hr>
       <ul> 
-        <li> <b>Popular Sports: </li>
+        <li> <b>Popular Sports: 
       <ol>
         <li> Football </li>
         <li>Ice Hockey </li>
@@ -47,7 +47,7 @@
         <li> Borscht </li>
         <li>Blini </li>
       </ol>
-  </ul>
+<tr>
     <p> Religion is a very important part of Russian lives, whilst many religions live side by side, Orthodox Christianity counts for the greatest percentage of the Russian population at 71%.</p>
     <br>
      <p> It is  important that we understand what a native Russian speaker sounds like in their own environment. So here we have a great video for you to listen to that gives some insight the phonetic sounds of Russian with some English subtitles (<i>so no-one gets lost!</i>)</p>
