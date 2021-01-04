@@ -26,7 +26,7 @@
  <hr>
   <div class="container">
 <p> <a style="float:left;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/" class="btn2"> <b>PREVIOUS</b> </a> </p>
- <p> <a style="float:centre;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page7.html" class="btn2"> <b>CONTINUE TO TEST</b> </a> </p> 
+ <p> <a style="float:center;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page7.html" class="btn2"> <b>CONTINUE TO TEST</b> </a> </p> 
  <p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page3.html" class="btn2"> <b>NEXT</b> </a> </p>
 
  <hr>
