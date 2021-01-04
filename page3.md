@@ -53,7 +53,10 @@
 <iframe src="https://h5p.org/h5p/embed/1084475" width="1090" height="244" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <br>  
  <hr>
- <iframe src="https://h5p.org/h5p/embed/1084506" width="545" height="262" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+ <div class="container">
+ <p style="text-align:center; color:red;"><b>Now that you've had a chance to look at the cases, there is a few True/False questions for you to try out.</b></p>
+ <br>  
+ <p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page8.html" class="btn2"> <b>CONTINUE TO QUESTIONS</b> </a> </p> 
  <br>
  <hr>
  <div class="container">
