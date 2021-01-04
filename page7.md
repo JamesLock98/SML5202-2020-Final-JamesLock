@@ -7,6 +7,5 @@
 <p> Congratulations for succesfully completing our alphabet test and getting familiar with the cyrillic alphabet! Please return to the previous page before proceeding onto our Grammar section. </p>
 <p> <a style="float:left;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page2.html" class="btn2"> <b>PREVIOUS</b> </a> </p>
 <div style="clear:both;"> </div>
- </div>
  <hr>
   <p> Last updated: 10<sup>th</sup> January 2021 </p>
