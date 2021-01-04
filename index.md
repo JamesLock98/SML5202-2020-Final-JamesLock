@@ -40,6 +40,7 @@
 </div>
 <br>
 <p> So when you're ready, lets begin with the Alphabet page! </p>
+<br>  
 <hr>
 <p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page2.html" class="btn2"> <b>NEXT</b> </a> </p>
 <div style="clear:both;"> </div>
