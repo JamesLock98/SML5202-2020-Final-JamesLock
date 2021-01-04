@@ -1,5 +1,5 @@
  <div class="container">
-<h1 style="text-align:center; color:red;">Verbs & Vocabulary Games</h1>
+<h1 style="text-align:center; color:red;">Verbs & Vocabulary: Games</h1>
  <br>
 <hr>
 <p> Firstly, we would like for you to try to match the 'Russian Word' cards with their 'animal pair' card, in as few card turns as possible! Good Luck - Удачи!</p>
