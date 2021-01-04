@@ -85,9 +85,9 @@
  <div class="container">
  <hr>  
  <p style="text-align:center; color:red;"><b>Now that you've had a chance to look at the these tables, there are some games for you to enjoy!.</b></p>
- <hr>
 <br>
  <p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page9.html" class="btn2"> <b>CONTINUE TO GAMES</b> </a> </p> 
+<br>
  <hr>
 <p> <a style="float:left;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page3.html" class="btn2"> <b>PREVIOUS</b> </a> </p>
 <p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page5.html" class="btn2"> <b>NEXT</b> </a> </p>
