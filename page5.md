@@ -36,6 +36,7 @@
       <ul> 
         <li> <b>Popular Sports</b>: 
       <ol>
+        <br>
         <li> Football </li>
         <li>Ice Hockey </li>
        <li>Wrestling </li>
@@ -43,6 +44,7 @@
           <br>
         <li> <b>Popular Foods</b>:</li>
       <ol>
+        <br>
         <li> Pelmeni </li>  
         <li> Borscht </li>
         <li>Blini </li>
