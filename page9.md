@@ -11,6 +11,7 @@
  <hr>
  <br>
  <p> <a style="float:left;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page4.html" class="btn2"> <b>PREVIOUS</b> </a> </p>
+ <br>
  <hr>
  <div class="container">
   <p> Last updated: 10<sup>th</sup> January 2021 </p>
