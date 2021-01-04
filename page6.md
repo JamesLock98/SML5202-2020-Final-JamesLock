@@ -1,7 +1,7 @@
 <div class="container">
 <h1 style="text-align:center; color:red;">Extra Information</h1>
 <hr>
-<p><b><i>Congratulations! You have succesfully completed your first steps in learning the Russian language!</b></i></p>
+<p><b><i>Congratulations! You have succesfully completed your first steps in learning the Russian language!</i></b></p>
   <br>
 <p>If you are looking to expand your knowledge beyond this elementary/beginner site then we have a few sites in mind! </p>
 <br>
