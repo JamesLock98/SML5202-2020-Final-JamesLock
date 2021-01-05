@@ -12,7 +12,7 @@
 <h3 style="text-align:center; color:red;">Cyrillic History Fact:</h3>
 <blockquote cite="https://learnrussian.rt.com/alphabet/the-history-of-the-cyrillic-alphabet/">
 
-<p>The Cyrillic alphabet owes its name to the 9th century Byzantine missionary St. Cyril, who, along with his brother, Methodius, created the first Slavic alphabet—the Glagolitic—in order to translate Greek religious text to Slavic. It is on the basis of this alphabet that the Cyrillic alphabet was developed in the First Bulgarian Empire during the 10th century AD by the followers of the brothers, who were beatified as saints.</p>
+<p>The Cyrillic alphabet owes its name to the 9th century Byzantine missionary St. Cyril. The Saint and his brother, Methodius, created the first Slavic alphabet—the Glagolitic, in order to translate Greek religious text to Slavic.</p>
 
 <p>Based on the Greek ceremonial script, the original Cyrillic alphabet included the 24 letters of the Greek alphabet and 19 letters for sounds specific to the Slavic language.</p>
 </blockquote>
