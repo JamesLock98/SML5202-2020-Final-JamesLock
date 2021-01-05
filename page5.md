@@ -59,7 +59,32 @@
         <li> Komsomolskaya Pravda </li>
         <li>Rossiskaya Gazeta </li>
       </ol>
+        <br>
+        <div class="col-md-4">
+    <div class="thumbnail">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/K_pravda_logo.svg/1200px-K_pravda_logo.svg.png" alt="Komosomolskaya Truth" style="width:55%">
+        <div class="caption">
+        </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aif_logo.svg/364px-Aif_logo.svg.png" alt="Arguments and Facts" style="width:55%">
+        <div class="caption">
+        </div>
+    </div>
+  </div>
+  <div class="row">
+  <div class="col-md-4">
+    <div class="thumbnail">
+        <img src="https://sambo.sport/upload/iblock/8f7/8f7f84e1782adf413dbb2448db41a386.jpg" alt="Russian Newspaper" style="width:55%">
+        <div class="caption">
+        </div>
+    </div>
+  </div>
+<br>
 <hr>
+    <br>
         <p><i> Important Fact:</i> Religion is a very important part of Russian lives, whilst many religions live side by side, Orthodox Christianity counts for the greatest percentage of the Russian population at 71%.</p>
     <br>
      <p> It is  important that we understand what a native Russian speaker sounds like in their own environment. So here we have a great video for you to listen to that gives some insight the phonetic sounds of Russian with some English subtitles (<i>so no-one gets lost!</i>)</p>
