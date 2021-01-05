@@ -33,6 +33,8 @@
   </div>
   <div class="container">
     <hr>
+    <h4 style="color:red;">Check out some of these popular sports, foods and newspapers!</h4>
+<br>
       <ul> 
         <li> <b>Popular Sports</b>: 
       <ol>
@@ -48,6 +50,13 @@
         <li> Pelmeni </li>  
         <li> Borscht </li>
         <li>Blini </li>
+      </ol>
+          <li> <b>Popular Newspapers</b>:</li>
+      <ol>
+        <br>
+        <li> Argumenty i Fakty </li>  
+        <li> Komsomolskaya Pravda </li>
+        <li>Rossiskaya Gazeta </li>
       </ol>
 <hr>
         <p><i> Important Fact:</i> Religion is a very important part of Russian lives, whilst many religions live side by side, Orthodox Christianity counts for the greatest percentage of the Russian population at 71%.</p>
