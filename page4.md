@@ -84,7 +84,7 @@
 </div>
  <div class="container">
  <hr>  
- <p style="text-align:center; color:red;"><b>Now that you've had a chance to look at the these tables, there are some games for you to enjoy!.</b></p>
+ <p style="text-align:center; color:red;"><b>Now that you've had a chance to look at the these tables, there are some games for you to enjoy!</b></p>
 <br>
  <p> <a style="float:right;" href="https://jameslock98.github.io/SML5202-2020-Final-JamesLock/page9.html" class="btn2"> <b>CONTINUE TO GAMES</b> </a> </p> 
 <br>
