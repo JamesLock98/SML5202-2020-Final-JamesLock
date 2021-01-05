@@ -62,7 +62,7 @@
         <br>
   <div class="col-md-4">
     <div class="thumbnail">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aif_logo.svg/364px-Aif_logo.svg.png" alt="Arguments and Facts" style="width:100px;height:50px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aif_logo.svg/364px-Aif_logo.svg.png" alt="Arguments and Facts" style="364px">
         <div class="caption">
         </div>
     </div>
