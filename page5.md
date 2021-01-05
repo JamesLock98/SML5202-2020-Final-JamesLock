@@ -69,7 +69,7 @@
   </div>
           <div class="col-md-4">
     <div class="thumbnail">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/K_pravda_logo.svg/1200px-K_pravda_logo.svg.png" alt="Komosomolskaya Truth" style="width:100px;height:50px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/K_pravda_logo.svg/1200px-K_pravda_logo.svg.png" alt="Komosomolskaya Truth" style="364px">
         <div class="caption">
         </div>
     </div>
@@ -77,7 +77,7 @@
   <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-        <img src="https://sambo.sport/upload/iblock/8f7/8f7f84e1782adf413dbb2448db41a386.jpg" alt="Russian Newspaper" style="width:100px;height:50px">
+        <img src="https://sambo.sport/upload/iblock/8f7/8f7f84e1782adf413dbb2448db41a386.jpg" alt="Russian Newspaper" style="364px">
         <div class="caption">
         </div>
     </div>
