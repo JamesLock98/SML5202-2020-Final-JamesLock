@@ -4,8 +4,8 @@
 <body>
   <h4> Learning a foreign language can seem a daunting task. When we learn a language, in order to truly immerse ourselves, we must also learn about the culture, history and traditions of the country. In our Russian Culture page you can see our image gallery and a video interview from UFC Lightweight Champion Khabib Nurmagomedov.</h4>
   <hr>
-  <h4> <b>Gallery:</b> </h4>
-  <tr>
+  <h4> <b>GALLERY:</b> </h4>
+  <br>
   <div class="col-md-4">
     <div class="thumbnail">
         <img src="https://www.state.gov/wp-content/uploads/2018/11/Russia-2499x1406.jpg" alt="Moscow" style="width:105%">
@@ -62,14 +62,14 @@
         <br>
   <div class="col-md-4">
     <div class="thumbnail">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aif_logo.svg/364px-Aif_logo.svg.png" alt="Arguments and Facts" style="364px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aif_logo.svg/364px-Aif_logo.svg.png" alt="Arguments and Facts" style="width:%100">
         <div class="caption">
         </div>
     </div>
   </div>
           <div class="col-md-4">
     <div class="thumbnail">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/K_pravda_logo.svg/1200px-K_pravda_logo.svg.png" alt="Komosomolskaya Truth" style="364px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/K_pravda_logo.svg/1200px-K_pravda_logo.svg.png" alt="Komosomolskaya Truth" style="width:%100">
         <div class="caption">
         </div>
     </div>
@@ -77,7 +77,7 @@
   <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-        <img src="https://sambo.sport/upload/iblock/8f7/8f7f84e1782adf413dbb2448db41a386.jpg" alt="Russian Newspaper" style="364px">
+        <img src="https://sambo.sport/upload/iblock/8f7/8f7f84e1782adf413dbb2448db41a386.jpg" alt="Russian Newspaper" style="width:%100">
         <div class="caption">
         </div>
     </div>
