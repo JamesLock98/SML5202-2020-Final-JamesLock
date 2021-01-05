@@ -12,8 +12,8 @@
 <p>This site is targeted at those with no pre-existing knowledge of Russian with the aim of reaching an elementary level through the completion of the variety of essential topics, accompanied by small tests based on this site. </p>
 		<br>
 <p>The site pages are listed in the order we would suggest the student should attempt, based on importance and complexity of each subject. This begins with Alphabet and works chronologically through Grammar, Verbs & Vocabulary, Russian Culture and Extra Information. 
-	</section>
-  <hr>
+
+<hr>
   <h4 style="text-align:center; color:red;">5 Key Facts about The Russian Federation:</h4>
   <ol> 
 	  <li> <b>Capital</b>: Moscow </li>
