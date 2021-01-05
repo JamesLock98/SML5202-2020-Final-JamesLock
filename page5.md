@@ -93,7 +93,8 @@
 </div>
 <br>
  <hr>
-        <p><i> Important Fact:</i> Religion is a very important part of Russian lives, whilst many religions live side by side, Orthodox Christianity counts for the greatest percentage of the Russian population at 71%.</p>
+    <p style="color:red;"><i>Fact</i></p>
+      <p>Religion is a very important part of Russian lives, whilst many religions live side by side, Orthodox Christianity counts for the greatest percentage of the Russian population at 71%.</p>
     <hr>
  <iframe src="https://h5p.org/h5p/embed/1084542" width="545" height="343" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <br>  
