@@ -5,13 +5,13 @@
 <h3 style="color:red;">Welcome to LearnRussian!</h3>
 <br>
 <section>
-<p> Here you can take your first steps to gaining understanding of an offical UN language that is used far and wide throughout the world. </p>
+<p> Here you can take your first steps to gaining understanding of an official UN language. One that is used far and wide throughout the world. </p>
 </section>
 		<br>
 <section>
-<p>This site is targeted at those with no pre-existing knowledge of Russian with the aim of reaching an elementary level through the completion of the variety of essential topics, accompanied by small tests based on this site. </p>
+<p>This site is targeted at those with no pre-existing knowledge of Russian. We aim to reach an elementary level, through the completion of a variety of essential topics, accompanied by small tests based on this site. </p>
 		<br>
-<p>The site pages are listed in the order we would suggest the student should attempt, based on importance and complexity of each subject. This begins with Alphabet and works chronologically through Grammar, Verbs & Vocabulary, Russian Culture and Extra Information. 
+<p>The site pages are listed in the order we would suggest the learner to follow. This begins with Alphabet and works chronologically from left to right through Grammar, Verbs & Vocabulary, Russian Culture and Extra Information. 
 
 <hr>
   <h4 style="text-align:center; color:red;">5 Key Facts about The Russian Federation:</h4>
