@@ -6,7 +6,7 @@
 <h2 style="text-align:center; color:red;">Cases</h2>
 
  <p></p>
- <p> <b>Definition</b>: Cases show a noun's or a pronoun's relationship with the other words in a sentence. 
+ <p> <b>Definition</b>: Cases show a noun's, or a pronoun's, relationship with the other words in a sentence. 
 <p>Here we have some material to understand the 6 cases used in the Russian Language and the importance of noun gender & number.</p>
 <br>
 <style>
